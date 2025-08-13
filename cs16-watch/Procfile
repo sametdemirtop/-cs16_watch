@@ -1,1 +1,1 @@
-worker: python cs16_watch.py
+worker: python cs16-watch/cs16_watch.py
